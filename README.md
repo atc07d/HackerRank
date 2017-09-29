@@ -1,1 +1,1 @@
-Repo for Hacker Rank solutions and Automate the Boring Stuff with Python solutions
+Repo for Hacker Rank solutions, one-off scripts, and short but sweet programs.
